@@ -1,0 +1,4 @@
+__pycache__/
+chrome_profile/
+downloads/
+*.pyc
