@@ -1,5 +1,16 @@
 # 🌟 知网吸星大法 - CNKI全自动批量下载 🔥
 
+<p align="center">
+  <a href="https://github.com/rinrin583/cnki-xixingdafa/stargazers"><img src="https://img.shields.io/github/stars/rinrin583/cnki-xixingdafa?style=social" alt="Stars"></a>
+  <a href="https://github.com/rinrin583/cnki-xixingdafa/network/members"><img src="https://img.shields.io/github/forks/rinrin583/cnki-xixingdafa?style=social" alt="Forks"></a>
+  <a href="https://greasyfork.org/zh-CN/scripts/574473"><img src="https://img.shields.io/badge/Greasy%20Fork-安装脚本-green" alt="Greasy Fork"></a>
+  <a href="https://github.com/rinrin583/cnki-xixingdafa/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="License"></a>
+</p>
+
+<p align="center">
+  <b>如果觉得好用，请点一个 ⭐ Star 支持一下！你的 Star 是我持续更新的最大动力！</b>
+</p>
+
 > 试了网上好几个知网批量下载工具，要么停更了，要么触发安全验证就中断，要么下一半没法继续...忍不了了，自己重新写了一个。
 
 一个 Tampermonkey 油猴脚本，在知网搜索结果页 **一键全自动批量下载PDF文献**。
@@ -136,6 +147,20 @@
 
 - 遇到问题？[提交 Issue](https://github.com/rinrin583/cnki-xixingdafa/issues)
 - 有改进想法？欢迎 PR
+- 觉得好用？帮忙 **转发分享** 给同学朋友！
+
+---
+
+## ⭐ 支持项目
+
+如果这个工具帮到了你，请花 1 秒钟点一个 **Star** ⭐ ！
+
+- GitHub **Star** = 最好的鼓励 🌟
+- **Fork** 收藏 = 以后随时找得到 🔖
+- **分享给同学** = 帮助更多人 💪
+- Greasy Fork **好评** = 让更多人发现 ✨
+
+> 每一个 Star 都是作者继续更新维护的动力，感谢你的支持！
 
 ---
 
