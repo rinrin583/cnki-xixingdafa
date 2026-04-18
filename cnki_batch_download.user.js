@@ -6,6 +6,7 @@
 // @match        *://*.cnki.net/*
 // @match        *://*cnki*.*/*
 // @match        *://*.atrust.seu.edu.cn/*
+// @license      MIT
 // @grant        none
 // @run-at       document-end
 // ==/UserScript==
