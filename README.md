@@ -45,7 +45,9 @@
 
 **方式一（推荐）：** 点击下面的链接，Tampermonkey 会自动弹出安装页面
 
-👉 [**点击安装脚本**](https://raw.githubusercontent.com/rinrin583/cnki-xixingdafa/main/cnki_batch_download.user.js)
+👉 [**Greasy Fork 一键安装**](https://greasyfork.org/zh-CN/scripts/574473-%E7%9F%A5%E7%BD%91%E5%90%B8%E6%98%9F%E5%A4%A7%E6%B3%95-cnki%E5%85%A8%E8%87%AA%E5%8A%A8%E4%B8%8B%E8%BD%BD)
+
+👉 [**GitHub Raw 安装**](https://raw.githubusercontent.com/rinrin583/cnki-xixingdafa/main/cnki_batch_download.user.js)
 
 **方式二（手动）：**
 1. 点击浏览器右上角 Tampermonkey 图标 → 「管理面板」
