@@ -97,23 +97,29 @@
 
 ### 第2步：安装脚本
 
-**方式一（推荐）：** 点击下面的链接，Tampermonkey 会自动弹出安装页面
+**⚡ v8.3 极速版（推荐）** — CAJ格式，速度快，功能全
+
+👉 [**GitHub Raw 安装 v8.3**](https://raw.githubusercontent.com/rinrin583/cnki-xixingdafa/main/cnki_batch_download_v8.user.js)
+
+**📄 v5 PDF版** — PDF格式，速度较慢
+
+👉 [**GitHub Raw 安装 v5**](https://raw.githubusercontent.com/rinrin583/cnki-xixingdafa/main/cnki_batch_download.user.js)
 
 👉 [**Greasy Fork 一键安装**](https://greasyfork.org/zh-CN/scripts/574473-%E7%9F%A5%E7%BD%91%E5%90%B8%E6%98%9F%E5%A4%A7%E6%B3%95-cnki%E5%85%A8%E8%87%AA%E5%8A%A8%E4%B8%8B%E8%BD%BD)
-
-👉 [**GitHub Raw 安装**](https://raw.githubusercontent.com/rinrin583/cnki-xixingdafa/main/cnki_batch_download.user.js)
 
 **方式二（手动）：**
 1. 点击浏览器右上角 Tampermonkey 图标 → 「管理面板」
 2. 点左上角 **「+」** 新建脚本
-3. 删掉默认内容，把 [`cnki_batch_download.user.js`](cnki_batch_download.user.js) 的全部内容粘贴进去
+3. 删掉默认内容，粘贴对应版本的脚本内容：
+   - 极速版：[`cnki_batch_download_v8.user.js`](cnki_batch_download_v8.user.js)
+   - PDF版：[`cnki_batch_download.user.js`](cnki_batch_download.user.js)
 4. **Ctrl + S** 保存
 
 ### 第3步：开始使用
 
 1. 打开知网 → 搜索你要下载的文献
-2. 搜索结果页 **右下角** 会出现 **「🌟 知网吸星大法 v8」** 面板
-3. 选择下载模式（顺序 / 勾选）
+2. 搜索结果页 **右下角** 会出现 **「🌟 知网吸星大法」** 面板
+3. 选择下载模式（v8.3 支持顺序 / 勾选两种模式）
 4. 点击 **「开始批量下载」** → 去喝杯咖啡 ☕
 
 ---
